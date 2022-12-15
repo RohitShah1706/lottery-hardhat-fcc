@@ -1,5 +1,5 @@
 
-# Hardhat Lottery Cmart Contract
+# Hardhat Lottery Smart Contract
 
 This smart contract allows users to enter a lottery by funding the prize pool using GoerliETH.  
 Chainlink keepers call performUpKeep of the contract at regular intervals to decide a randomised  
